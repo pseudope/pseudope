@@ -1,4 +1,4 @@
-# PSeuDoPe
+# PSeuDoPe (Jang Min-Woo)
 
 Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Junior)
 
