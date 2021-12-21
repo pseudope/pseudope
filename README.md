@@ -1,6 +1,6 @@
 # PSeuDoPe (Jang Min-Woo)
 
-Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Junior)
+Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Senior)
 
 * 💖 Interests: On-Device, Lightweight Deep Learning, Federated Learning, Bayesian Neural Network, Time Series Analysis
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
