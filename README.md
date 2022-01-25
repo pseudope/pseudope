@@ -10,3 +10,6 @@ Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Senior)
 
 ## Contact
 * 📃 email: pseudonym [at] sogang [dot] ac [dot] kr
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
