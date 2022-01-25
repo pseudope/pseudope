@@ -2,7 +2,7 @@
 
 Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Senior)
 
-* 💖 Interests: On-Device, Lightweight Deep Learning, Computer Vision, Natural Language Processing, Multimodal
+* 💖 Interests: On-Device, Lightweight Deep Learning, Federated Learning, CV, NLP, Multimodal
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
 * ✍🏻 Want to study: C++, CUDA, more about CS & EE
