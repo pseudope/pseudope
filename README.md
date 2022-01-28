@@ -1,12 +1,12 @@
 # PSeuDoPe
 
-Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Senior)
+Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Undergraduate)
 
 * 💖 Interests: On-Device, Lightweight Deep Learning, Federated Learning, CV, NLP, Multimodal
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
 * ✍🏻 Want to study: C++, CUDA, more about CS & EE
-* 🎯 Now I'm studying: Chinese & Korean NLP, PySpark, Algorithms
+* 🎯 Now I'm studying: Korean & Chinese NLP, PySpark, Algorithms
 
 ## Contact
 * 📃 email: pseudonym [at] sogang [dot] ac [dot] kr
