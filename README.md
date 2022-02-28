@@ -10,6 +10,7 @@ Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Undergradua
 
 ## Contact
 * 📃 email: pseudonym [at] sogang [dot] ac [dot] kr
+* 📒 blog: https://pseudope.github.io/
 
 ##
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pseudope)](https://solved.ac/pseudope)
