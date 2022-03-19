@@ -6,7 +6,7 @@ Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Undergradua
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
 * ✍🏻 Want to study: C++, CUDA, more about CS & EE
-* 🎯 Now I'm studying: Korean & Chinese NLP, Algorithms, Fourier Analysis, Financial Machine Learning
+* 🎯 Now I'm studying: Korean & Chinese NLP, Algorithms, Discrete Mathematics, Financial Machine Learning
 
 ## Contact
 * 📃 email: pseudonym [at] sogang [dot] ac [dot] kr
