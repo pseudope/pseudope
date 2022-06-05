@@ -1,8 +1,8 @@
 # PSeuDoPe
 
-Majoring Economics & Mathematics in Sogang University, Seoul, Korea (Undergraduate)
+Majoring Economics & Mathematics in Sogang University, Seoul, Republic of Korea (Undergraduate)
 
-* 💖 Interests: Federated Learning, Model Compression, On-Device, Stochactic Optimisation
+* 💖 Interests: Federated Learning, Model Compression, On-Device, Stochastic Optimisation
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
 * ✍🏻 Want to study: C++, CUDA, more about CS & EE
