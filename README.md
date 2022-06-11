@@ -1,7 +1,7 @@
 # PSeuDoPe
 
 Majoring Economics & Mathematics in Sogang University, Seoul, Republic of Korea (Undergraduate) <br>
-I'm going to move to the POSTECH GSAI for pursuing a PhD degree, starting from Feb 2023.
+I'm going to join POSTECH GSAI for pursuing a PhD degree, starting from Feb 2023.
 
 * 💖 Interests: Federated Learning, Model Compression, On-Device, Stochastic Optimisation
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
