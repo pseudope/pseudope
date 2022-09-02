@@ -9,7 +9,7 @@ I'm going to join POSTECH GSAI for pursuing a PhD degree, starting from Feb 2023
 * 🎯 Now I'm studying: Model Aggregation, Convergence Analysis, Straggler Problem, Byzantine Fault Tolerance, Time Series Analysis
 
 ## Links
-* 🎓 Main Page: (Under Construction) https://pseudope.github.io/
+* 🎓 Main Page: https://pseudope.github.io/
 * 📒 Blog [in Korean]: https://federated-learning.tistory.com/
 
 ## Contact
