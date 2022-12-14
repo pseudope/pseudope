@@ -1,4 +1,4 @@
-# PSeuDoPe
+# 장민우 (Minwoo Jang)
 
 ## Education
 Pohang University of Science and Technology (POSTECH) (Feb 2023 ~) <br>
