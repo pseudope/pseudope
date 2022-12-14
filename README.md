@@ -2,11 +2,11 @@
 
 ## Education
 Pohang University of Science and Technology (POSTECH) (Feb 2023 ~) <br>
-PhD Course at the Graduate School of Artificial Intelligence <br>
+PhD Course @ Graduate School of Artificial Intelligence <br>
 <br>
 Sogang University (SU) (Mar 2017 ~ Feb 2023) <br>
-BA in Economics (Econometrics Track) <br>
-BSc in Mathematics
+BA in Economics (Econometrics Track) @ School of Economics<br>
+BSc in Mathematics @ Department of Natural Sciences
 
 ## About Me
 * 💖 Interests: Federated Learning, Model Compression, Stochastic Optimization
