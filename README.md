@@ -6,6 +6,7 @@ PhD Course @ Graduate School of Artificial Intelligence <br>
 
 * Sogang University (SU) (Mar 2017 ~ Feb 2023) <br>
 (Mar 2019 ~ Feb 2021: on leave for the military service) <br>
+Graudated with Honours (Cum Laude) <br>
 BA in Economics (Econometrics Track) @ School of Economics<br>
 BSc in Mathematics @ Department of Natural Sciences
 
