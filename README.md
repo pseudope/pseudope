@@ -4,7 +4,7 @@
 * Pohang University of Science and Technology (POSTECH) (Feb 2023 ~) <br>
 
   PhD Course @ Graduate School of Artificial Intelligence <br>
-  Advisor: Prof. Jungseul Ok from the Machine Learning Lab @ POSTECH
+  Advisor: Prof. Jungseul Ok from the Machine Learning Lab
 
 * Sogang University (SU) (Mar 2017 ~ Feb 2023) <br>
 (Mar 2019 ~ Feb 2021: on leave for the military service) <br>
