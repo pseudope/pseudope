@@ -1,17 +1,17 @@
 # 장민우 (Minwoo Jang)
 
 ## Education
-* Pohang University of Science and Technology (POSTECH) (Feb 2023 ~) <br>
+* [Pohang University of Science and Technology (POSTECH)](https://www.postech.ac.kr/) (Feb 2023 ~) <br>
 
-  PhD Course @ Graduate School of Artificial Intelligence <br>
-  Advisor: Prof. Jungseul Ok from the Machine Learning Lab
+  PhD Course @ [Graduate School of Artificial Intelligence](https://ai.postech.ac.kr/main/index) <br>
+  Advisor: [Prof. Jungseul Ok](https://sites.google.com/view/jungseulok) from [the Machine Learning Lab](http://ml.postech.ac.kr/)
 
-* Sogang University (SU) (Mar 2017 ~ Feb 2023) <br>
+* [Sogang University (SU)](https://sogang.ac.kr/index.do) (Mar 2017 ~ Feb 2023) <br>
 (Mar 2019 ~ Feb 2021: on leave for the military service) <br>
 
   Graudated with Honours (Cum Laude) <br>
-  BA in Economics (Econometrics Track) @ School of Economics<br>
-  BSc in Mathematics @ Department of Natural Sciences
+  BA in Economics (Econometrics Track) @ [School of Economics](https://econ.sogang.ac.kr/econ/index_new.html) <br>
+  BSc in Mathematics @ [Department of Natural Sciences](https://science.sogang.ac.kr/science/index_new.html)
 
 ## About Me
 * 💖 Interests: Federated Learning, Model Compression, Stochastic Optimisation
