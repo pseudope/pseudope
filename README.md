@@ -24,7 +24,7 @@
 * 📒 Blog [in Korean]: https://federated-learning.tistory.com/
 
 ## Contact
-* 📃 email: pseudonym [at] sogang [dot] ac [dot] kr (would be changed soon)
+* 📃 email: {first_name} [at] postech [dot] ac [dot] kr (would be changed soon)
 
 ##
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pseudope)](https://solved.ac/pseudope)
