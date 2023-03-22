@@ -17,7 +17,7 @@
 * 💖 Interests: Federated Learning, Model Compression, Stochastic Optimisation
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
-* 🎯 Now I'm studying: Convergence Analysis, Game Theory
+* 🎯 Now I'm studying: Convergence Analysis, Game Theory, OoD Detection
 
 ## Links
 * 🎓 Main Page: https://pseudope.github.io/
