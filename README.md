@@ -14,10 +14,10 @@
   BSc in Mathematics @ [Department of Natural Sciences](https://science.sogang.ac.kr/science/index_new.html)
 
 ## About Me
-* 💖 Interests: Federated Learning, Model Compression, Stochastic Optimisation
+* 💖 Interests: Federated Learning, Model Compression, Stochastic Optimisation, Open World Learning
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
-* 🎯 Now I'm studying: Convergence Analysis, Game Theory, OoD Detection
+* 🎯 Now I'm studying: Convergence Analysis, Game Theory, Skewed Distribution
 
 ## Links
 * 🎓 Main Page: https://pseudope.github.io/
