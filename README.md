@@ -10,8 +10,8 @@
 (Mar 2019 ~ Feb 2021: on leave for the military service) <br>
 
   Graudated with Honours (Cum Laude) <br>
-  BEc in Economics (Econometrics Track) @ [School of Economics](https://econ.sogang.ac.kr/econ/index_new.html) <br>
-  BSc in Mathematics @ [Department of Natural Sciences](https://science.sogang.ac.kr/science/index_new.html)
+  Bachelor of Economics (BEc; Econometrics Track) @ [School of Economics](https://econ.sogang.ac.kr/econ/index_new.html) <br>
+  Bachelor of Science in Mathematics (BSc) @ [Department of Natural Sciences](https://science.sogang.ac.kr/science/index_new.html)
 
 ## About Me
 * 💖 Interests: Federated Learning, Model Compression, Stochastic Optimisation, Open World Learning
