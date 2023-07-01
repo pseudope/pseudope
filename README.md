@@ -17,7 +17,7 @@
 * 💖 Interests: Federated Learning, Model Compression, Stochastic Optimisation, Open World Learning
 * 👱🏻‍♀️ Languages: Korean(Native), English(Fluent), French(Conversant)
 * 💻 Programming Languages: Python, MATLAB
-* 🎯 Now I'm studying: Convergence Analysis, Game Theory, Skewed Distribution
+* 🎯 Now I'm studying: Convergence Analysis, Skewed Distribution,  Weakly-Supervised Learning, Human Feedback
 
 ## Links
 * 🎓 Main Page: https://pseudope.github.io/
