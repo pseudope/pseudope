@@ -10,7 +10,7 @@
 (Mar 2019 ~ Feb 2021: on leave for the military service) <br>
 
   Graudated with Honours (Cum Laude) <br>
-  Bachelor of Economics (BEc; Quantitive Economics) @ [School of Economics](https://econ.sogang.ac.kr/econ/index_new.html) <br>
+  Bachelor of Economics (BEc; Quantitative Economics) @ [School of Economics](https://econ.sogang.ac.kr/econ/index_new.html) <br>
   Bachelor of Science in Mathematics (BSc) @ [Department of Natural Sciences](https://science.sogang.ac.kr/science/index_new.html)
 
 ## About Me
