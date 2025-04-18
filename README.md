@@ -10,7 +10,7 @@
 (Mar 2019 ~ Feb 2021: on leave for the military service) <br>
 
   Graudated with Honours (Cum Laude) <br>
-  Bachelor of Economics (BEc; Quantitative Economics)
+  Bachelor of Economics (BEc; Quantitative Economics) <br>
   Bachelor of Science in Mathematics (BSc)
 
 ## About Me
